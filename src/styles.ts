@@ -13,7 +13,7 @@ export const GlobalCss = createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family; Roboto; sans-serif;
+    font-family: Roboto; sans-serif;
     list-style: none;
     }
 
@@ -25,7 +25,7 @@ export const GlobalCss = createGlobalStyle`
 
   .container{
   max-width: 1024px;
-  widht: 100%;
+  width: 100%;
   margin: 0 auto;
   }
 `
